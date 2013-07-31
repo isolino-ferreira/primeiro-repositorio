@@ -8,6 +8,6 @@ public class Application {
 		cr.botaoFazer(1);
 		cr.botaoDesfazer(1);
 		cr.botaoDesfazer(0);
-		System.out.println("meu notebook tentando denovo");
+		System.out.println("este é o curso original");
 	}
 }
