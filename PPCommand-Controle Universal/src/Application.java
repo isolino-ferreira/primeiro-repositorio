@@ -10,5 +10,6 @@ public class Application {
 		cr.botaoDesfazer(0);
 		System.out.println("meu notebook tentando denovo");
 		System.out.println("alternativo");
+		System.out.println("continuando alternativp denovo");
 	}
 }
